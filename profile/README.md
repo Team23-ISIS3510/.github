@@ -9,4 +9,4 @@ Team:
 
 > Maria Lucia Benavides Domínguez m.benavidesd@uniandes.edu.co
 
-## See our wiki here
+## See our wiki [here](https://github.com/Team23-ISIS3510/.github/wiki)
