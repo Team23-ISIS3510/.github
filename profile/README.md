@@ -1,5 +1,12 @@
-# Main Title
+# Mobile Development Wiki Team 23
 
-## Second
+Team: 
+> Daniel Camilo Quimbay Velasquez d.quimbay@uniandes.edu.co
 
-Bla bla bla
+> Nikol Katherine Rodriguez Ortiz nk.rodriguez@uniandes.edu.co
+
+> Catherine Paola Jimenez Jaque p.jimenezj@uniandes.edu.co
+
+> Maria Lucia Benavides Domínguez m.benavidesd@uniandes.edu.co
+
+## See our wiki here
